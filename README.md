@@ -4,9 +4,9 @@ This repository is based on [Daniel Lopes' course](https://www.udemy.com/course/
 
 ## What I am supposed to learn
 
-- [ ] Config react.js
-- [ ] React initial
-- [ ] Components concept
+- [x] Config react.js
+- [x] React initial
+- [x] Components concept
 - [ ] Learning bootstrap
 - [ ] Develop a basic landing page
 
