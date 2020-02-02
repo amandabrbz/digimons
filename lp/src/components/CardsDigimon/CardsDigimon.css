@@ -1,0 +1,16 @@
+.cardImg {
+  width: 5rem;
+  margin: 1rem;
+  align-self: center;
+}
+
+.cardBody {
+  align-self: center;
+  text-align: center;
+}
+
+.cardDigi {
+  width: 12rem;
+  height: 13rem;
+  margin: 0.4rem;
+}

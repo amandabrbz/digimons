@@ -7,11 +7,22 @@ This repository is based on [Daniel Lopes' course](https://www.udemy.com/course/
 - [x] Config react.js
 - [x] React initial
 - [x] Components concept
-- [ ] Learning bootstrap
-- [ ] Develop a basic landing page
+- [x] Learning bootstrap 
+- [x] Develop a basic landing page
 
-### Aprendizados
+### Gains
 
-### Dificuldades
+- Theres a lib called bootstrap special for reactjs
+- Components concept
+- Indication of plugins
 
-#### Resultado
+### Difficulties
+
+- Theres no assets available, only for the carousel part
+- Theres no guide por stylization part, look at the documentation
+- Need to know a little better of react to do some things
+- The instructor gets easily lost
+
+## Result
+
+[Click here]()
